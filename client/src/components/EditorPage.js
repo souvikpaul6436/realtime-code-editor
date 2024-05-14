@@ -122,7 +122,7 @@ function EditorPage() {
           <div className="mt-auto ">
             <button
               className="btn btn-success text-white mt-2 mb-2 px-3 btn-block"
-              onClick={leaveRoom}
+              onClick={copyRoomId}
             >
               Copy Room ID
             </button>
